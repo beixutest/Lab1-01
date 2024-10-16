@@ -1,12 +1,11 @@
-# My Open Source Contribution Plan  
+# 我的开源项目贡献计划  
 
-## Contribution Ideas  
-- Contribute to documentation improvements.  
-- Fix bugs in open source projects.  
-- Develop new features for community projects.  
+在本学期，我计划通过以下方式为开源项目做出贡献：  
+- 学习和理解开源项目的贡献流程。  
+- 参与项目的代码审查和文档改进。  
+- 提交至少一个功能或修复补丁。  
 
-## Plan  
-- Identify projects that align with my skills.  
-- Set aside time each week for contributions.  
-- Engage with the community to understand needs.
-
+## 本学期的学习目标  
+- 熟悉 Git 和 GitHub 的使用。  
+- 理解开源项目的协作流程。  
+- 提高编程技能和代码质量。
